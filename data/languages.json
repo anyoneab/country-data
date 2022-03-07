@@ -1,296 +1,296 @@
 [
   {
-    "alpha2": "",
-    "alpha3": "",
-    "bibliographic": "",
-    "name": "Cantonese"
-  },
-  {
+    "name": "Arabic",
     "alpha2": "ar",
     "alpha3": "ara",
-    "bibliographic": "",
-    "name": "Arabic"
+    "bibliographic": ""
   },
   {
+    "name": "Bosnian",
     "alpha2": "bs",
     "alpha3": "bos",
-    "bibliographic": "",
-    "name": "Bosnian"
+    "bibliographic": ""
   },
   {
+    "name": "Bulgarian",
     "alpha2": "bg",
     "alpha3": "bul",
-    "bibliographic": "",
-    "name": "Bulgarian"
+    "bibliographic": ""
   },
   {
-    "alpha2": "cs",
-    "alpha3": "ces",
-    "bibliographic": "cze",
-    "name": "Czech"
-  },
-  {
-    "alpha2": "da",
-    "alpha3": "dan",
-    "bibliographic": "",
-    "name": "Danish"
-  },
-  {
-    "alpha2": "de",
-    "alpha3": "deu",
-    "bibliographic": "ger",
-    "name": "German"
-  },
-  {
-    "alpha2": "el",
-    "alpha3": "ell",
-    "bibliographic": "gre",
-    "name": "Greek"
-  },
-  {
-    "alpha2": "en",
-    "alpha3": "eng",
-    "bibliographic": "",
-    "name": "English"
-  },
-  {
-    "alpha2": "et",
-    "alpha3": "est",
-    "bibliographic": "",
-    "name": "Estonian"
-  },
-  {
-    "alpha2": "fa",
-    "alpha3": "fas",
-    "bibliographic": "per",
-    "name": "Farsi"
-  },
-  {
+    "name": "Cantonese",
     "alpha2": "",
-    "alpha3": "fil",
-    "bibliographic": "",
-    "name": "Filipino"
+    "alpha3": "",
+    "bibliographic": ""
   },
   {
-    "alpha2": "fi",
-    "alpha3": "fin",
-    "bibliographic": "",
-    "name": "Finnish"
-  },
-  {
-    "alpha2": "fr",
-    "alpha3": "fra",
-    "bibliographic": "fre",
-    "name": "French"
-  },
-  {
-    "alpha2": "he",
-    "alpha3": "heb",
-    "bibliographic": "",
-    "name": "Hebrew"
-  },
-  {
-    "alpha2": "hi",
-    "alpha3": "hin",
-    "bibliographic": "",
-    "name": "Hindi"
-  },
-  {
+    "name": "Croatian",
     "alpha2": "hr",
     "alpha3": "hrv",
-    "bibliographic": "",
-    "name": "Croatian"
+    "bibliographic": ""
   },
   {
+    "name": "Czech",
+    "alpha2": "cs",
+    "alpha3": "ces",
+    "bibliographic": "cze"
+  },
+  {
+    "name": "Danish",
+    "alpha2": "da",
+    "alpha3": "dan",
+    "bibliographic": ""
+  },
+  {
+    "name": "Dutch",
+    "alpha2": "nl",
+    "alpha3": "nld",
+    "bibliographic": "dut"
+  },
+  {
+    "name": "English",
+    "alpha2": "en",
+    "alpha3": "eng",
+    "bibliographic": ""
+  },
+  {
+    "name": "Estonian",
+    "alpha2": "et",
+    "alpha3": "est",
+    "bibliographic": ""
+  },
+  {
+    "name": "Farsi",
+    "alpha2": "fa",
+    "alpha3": "fas",
+    "bibliographic": "per"
+  },
+  {
+    "name": "Filipino",
+    "alpha2": "",
+    "alpha3": "fil",
+    "bibliographic": ""
+  },
+  {
+    "name": "Finnish",
+    "alpha2": "fi",
+    "alpha3": "fin",
+    "bibliographic": ""
+  },
+  {
+    "name": "Flemish",
+    "alpha2": "nl",
+    "alpha3": "nld",
+    "bibliographic": "dut"
+  },
+  {
+    "name": "French",
+    "alpha2": "fr",
+    "alpha3": "fra",
+    "bibliographic": "fre"
+  },
+  {
+    "name": "German",
+    "alpha2": "de",
+    "alpha3": "deu",
+    "bibliographic": "ger"
+  },
+  {
+    "name": "Greek",
+    "alpha2": "el",
+    "alpha3": "ell",
+    "bibliographic": "gre"
+  },
+  {
+    "name": "Hebrew",
+    "alpha2": "he",
+    "alpha3": "heb",
+    "bibliographic": ""
+  },
+  {
+    "name": "Hindi",
+    "alpha2": "hi",
+    "alpha3": "hin",
+    "bibliographic": ""
+  },
+  {
+    "name": "Hungarian",
     "alpha2": "hu",
     "alpha3": "hun",
-    "bibliographic": "",
-    "name": "Hungarian"
+    "bibliographic": ""
   },
   {
-    "alpha2": "id",
-    "alpha3": "ind",
-    "bibliographic": "",
-    "name": "Indonesian"
-  },
-  {
+    "name": "Icelandic",
     "alpha2": "is",
     "alpha3": "isl",
-    "bibliographic": "ice",
-    "name": "Icelandic"
+    "bibliographic": "ice"
   },
   {
+    "name": "Indonesian",
+    "alpha2": "id",
+    "alpha3": "ind",
+    "bibliographic": ""
+  },
+  {
+    "name": "Italian",
     "alpha2": "it",
     "alpha3": "ita",
-    "bibliographic": "",
-    "name": "Italian"
+    "bibliographic": ""
   },
   {
+    "name": "Japanese",
     "alpha2": "ja",
     "alpha3": "jpn",
-    "bibliographic": "",
-    "name": "Japanese"
+    "bibliographic": ""
   },
   {
+    "name": "Korean",
     "alpha2": "ko",
     "alpha3": "kor",
-    "bibliographic": "",
-    "name": "Korean"
+    "bibliographic": ""
   },
   {
+    "name": "Latvian",
     "alpha2": "lv",
     "alpha3": "lav",
-    "bibliographic": "",
-    "name": "Latvian"
+    "bibliographic": ""
   },
   {
+    "name": "Lithuanian",
     "alpha2": "lt",
     "alpha3": "lit",
-    "bibliographic": "",
-    "name": "Lithuanian"
+    "bibliographic": ""
   },
   {
-    "alpha2": "",
-    "alpha3": "man",
-    "bibliographic": "",
-    "name": "Mandingo"
-  },
-  {
-    "alpha2": "nl",
-    "alpha3": "nld",
-    "bibliographic": "dut",
-    "name": "Dutch"
-  },
-  {
-    "alpha2": "nl",
-    "alpha3": "nld",
-    "bibliographic": "dut",
-    "name": "Flemish"
-  },
-  {
-    "alpha2": "no",
-    "alpha3": "nor",
-    "bibliographic": "",
-    "name": "Norwegian"
-  },
-  {
-    "alpha2": "pa",
-    "alpha3": "pan",
-    "bibliographic": "",
-    "name": "Punjabi"
-  },
-  {
-    "alpha2": "pl",
-    "alpha3": "pol",
-    "bibliographic": "",
-    "name": "Polish"
-  },
-  {
-    "alpha2": "pt",
-    "alpha3": "por",
-    "bibliographic": "",
-    "name": "Portuguese"
-  },
-  {
-    "alpha2": "ro",
-    "alpha3": "ron",
-    "bibliographic": "rum",
-    "name": "Romanian"
-  },
-  {
-    "alpha2": "ru",
-    "alpha3": "rus",
-    "bibliographic": "",
-    "name": "Russian"
-  },
-  {
-    "alpha2": "sl",
-    "alpha3": "slv",
-    "bibliographic": "",
-    "name": "Slovenian"
-  },
-  {
-    "alpha2": "so",
-    "alpha3": "som",
-    "bibliographic": "",
-    "name": "Somali"
-  },
-  {
-    "alpha2": "es",
-    "alpha3": "spa",
-    "bibliographic": "",
-    "name": "Spanish"
-  },
-  {
-    "alpha2": "sr",
-    "alpha3": "srp",
-    "bibliographic": "",
-    "name": "Serbian"
-  },
-  {
-    "alpha2": "sw",
-    "alpha3": "swa",
-    "bibliographic": "",
-    "name": "Swahili"
-  },
-  {
-    "alpha2": "sv",
-    "alpha3": "swe",
-    "bibliographic": "",
-    "name": "Swedish"
-  },
-  {
-    "alpha2": "th",
-    "alpha3": "tha",
-    "bibliographic": "",
-    "name": "Thai"
-  },
-  {
-    "alpha2": "",
-    "alpha3": "tig",
-    "bibliographic": "",
-    "name": "Tigre"
-  },
-  {
-    "alpha2": "ti",
-    "alpha3": "tir",
-    "bibliographic": "",
-    "name": "Tigrinya"
-  },
-  {
-    "alpha2": "tr",
-    "alpha3": "tur",
-    "bibliographic": "",
-    "name": "Turkish"
-  },
-  {
-    "alpha2": "uk",
-    "alpha3": "ukr",
-    "bibliographic": "",
-    "name": "Ukrainian"
-  },
-  {
-    "alpha2": "ur",
-    "alpha3": "urd",
-    "bibliographic": "",
-    "name": "Urdu"
-  },
-  {
-    "alpha2": "vi",
-    "alpha3": "vie",
-    "bibliographic": "",
-    "name": "Vietnamese"
-  },
-  {
+    "name": "Mandarin",
     "alpha2": "zh",
     "alpha3": "zho",
-    "bibliographic": "chi",
-    "name": "Mandarin"
+    "bibliographic": "chi"
   },
   {
+    "name": "Mandingo",
+    "alpha2": "",
+    "alpha3": "man",
+    "bibliographic": ""
+  },
+  {
+    "name": "Norwegian",
+    "alpha2": "no",
+    "alpha3": "nor",
+    "bibliographic": ""
+  },
+  {
+    "name": "Polish",
+    "alpha2": "pl",
+    "alpha3": "pol",
+    "bibliographic": ""
+  },
+  {
+    "name": "Portuguese",
+    "alpha2": "pt",
+    "alpha3": "por",
+    "bibliographic": ""
+  },
+  {
+    "name": "Punjabi",
+    "alpha2": "pa",
+    "alpha3": "pan",
+    "bibliographic": ""
+  },
+  {
+    "name": "Romanian",
+    "alpha2": "ro",
+    "alpha3": "ron",
+    "bibliographic": "rum"
+  },
+  {
+    "name": "Russian",
+    "alpha2": "ru",
+    "alpha3": "rus",
+    "bibliographic": ""
+  },
+  {
+    "name": "Serbian",
+    "alpha2": "sr",
+    "alpha3": "srp",
+    "bibliographic": ""
+  },
+  {
+    "name": "Slovenian",
+    "alpha2": "sl",
+    "alpha3": "slv",
+    "bibliographic": ""
+  },
+  {
+    "name": "Somali",
+    "alpha2": "so",
+    "alpha3": "som",
+    "bibliographic": ""
+  },
+  {
+    "name": "Spanish",
+    "alpha2": "es",
+    "alpha3": "spa",
+    "bibliographic": ""
+  },
+  {
+    "name": "Swahili",
+    "alpha2": "sw",
+    "alpha3": "swa",
+    "bibliographic": ""
+  },
+  {
+    "name": "Swedish",
+    "alpha2": "sv",
+    "alpha3": "swe",
+    "bibliographic": ""
+  },
+  {
+    "name": "Thai",
+    "alpha2": "th",
+    "alpha3": "tha",
+    "bibliographic": ""
+  },
+  {
+    "name": "Tigre",
+    "alpha2": "",
+    "alpha3": "tig",
+    "bibliographic": ""
+  },
+  {
+    "name": "Tigrinya",
+    "alpha2": "ti",
+    "alpha3": "tir",
+    "bibliographic": ""
+  },
+  {
+    "name": "Turkish",
+    "alpha2": "tr",
+    "alpha3": "tur",
+    "bibliographic": ""
+  },
+  {
+    "name": "Ukrainian",
+    "alpha2": "uk",
+    "alpha3": "ukr",
+    "bibliographic": ""
+  },
+  {
+    "name": "Urdu",
+    "alpha2": "ur",
+    "alpha3": "urd",
+    "bibliographic": ""
+  },
+  {
+    "name": "Vietnamese",
+    "alpha2": "vi",
+    "alpha3": "vie",
+    "bibliographic": ""
+  },
+  {
+    "name": "Zulu",
     "alpha2": "zu",
     "alpha3": "zul",
-    "bibliographic": "",
-    "name": "Zulu"
+    "bibliographic": ""
   }
-]
+ ]
