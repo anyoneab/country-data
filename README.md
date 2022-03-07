@@ -1,4 +1,4 @@
-# Country Data
+# Anyone Forked Country Data Package
 
 [![Build Status](https://travis-ci.org/OpenBookPrices/country-data.png)](https://travis-ci.org/OpenBookPrices/country-data)
 
